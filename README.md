@@ -9,8 +9,8 @@ Deep learning model (EfficientNetB0 + Grad-CAM) that classifies MRI scans into g
 Test accuracy:  0.8656
 
 ![Training Curves](Accuracy_plot.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Grad-CAM](images/gradcam.png)
+![Confusion Matrix](confusion_matrix.png)
+![Grad-CAM](mri.png)
 
 ## How to run
 Open the notebook in Google Colab, set the runtime to GPU, and run all cells.
