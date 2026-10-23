@@ -7,6 +7,7 @@ Deep learning model (EfficientNetB0 + Grad-CAM) that classifies MRI scans into g
 
 ## Results
 Test accuracy:  0.8656
+ 
  precision    recall  f1-score   support
 
       glioma     0.9108    0.7400    0.8166       400
